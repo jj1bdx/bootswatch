@@ -17,6 +17,13 @@
   <a href="https://blog.bootswatch.com/">Blog</a>
 </p>
 
+## jj1bdx theme addition
+
+* Use Theme "flatly"
+* This repository supersedes <https://github.com/jj1bdx/bootstrap-jj1bdx>
+* See `dist/flatly/_variables.scss` for the changes
+* Use branch `jj1bdx-color-mode-type`
+
 ## Usage
 
 There are a few different ways you can integrate Bootswatch into your project.
