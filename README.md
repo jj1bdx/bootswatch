@@ -17,6 +17,13 @@
   <a href="https://blog.bootswatch.com/">Blog</a>
 </p>
 
+## jj1bdx.tokyo theme addition
+
+* Use Theme "darkly"
+* No addition or deletion from original Bootswatch
+* This repository supersedes <https://github.com/jj1bdx/bootstrap-jj1bdx>
+* Use branch `jj1bdx.tokyo`
+
 ## Usage
 
 There are a few different ways you can integrate Bootswatch into your project.
