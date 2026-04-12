@@ -161,6 +161,11 @@ h6 {
   color: $body-color !important;
 }
 
+hr {
+  border-top: 1px solid var(--bs-emphasis-color);
+  opacity: 0.1;
+}
+
 // Tables
 
 th {
@@ -201,6 +206,10 @@ th {
     &::placeholder {
       color: $body-secondary-color;
     }
+  }
+
+  .form-select {
+    color: $gray-700;
   }
 
   .form-floating {
